@@ -39,18 +39,19 @@ const MarketSchedule = [
     },
 ];
 
-function Schedule() {
+function Schedule({ selectedDay }) {
+    const scheduleForSelectedDay = MarketSchedule.find((Schedule) => Schedule.day === selectedDay);
     return (
         <React.Fragment>
-            <h3>Find us at this Farmers Market</h3>
-            <ul>
-                {MarketSchedule.map((Schedule, index) => {
-                    <li key={index}>
-                        <strong>{Schedule.day}:</strong> {Schedule.location} ({Schedule.hours}) - Booth {Schedule.booth}
+            {scheduleForSelectedDay ? (
+                <ul>
+                    <li>
+                        <strong>{scheduleForSelectedDay.day}:</strong> {scheduleForSelectedDay.location} ({scheduleForSelectedDay.hours}) Booth: {scheduleForSelectedDay.booth}
                     </li>
-                })}
-            </ul>
-            <hr />
+                </ul>
+            ) : (
+                <p>No Schedule available for the selected day.</p>
+            )}
         </React.Fragment>
     );
 }
