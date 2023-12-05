@@ -1,11 +1,11 @@
 import React from "react";
 import Schedule from "./Schedule";
 
-function MarketSchedule(){
+function MarketSchedule() {
     return (
-        <section>
-           <Schedule /> 
-        </section>
+        <React.Fragment>
+            <Schedule />
+        </React.Fragment>
         
     );
 }
