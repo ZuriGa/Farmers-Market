@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T17:16:45.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="KsrKUsVu96zLcXMclcuH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T17:35:19.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hnBQVnhaxMUyhXaOt3Yv" version="22.1.5" type="github">
   <diagram name="Page-1" id="9eK4c2ayBbE7dOuOj0Mh">
-    <mxGraphModel>
+    <mxGraphModel dx="948" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="25" y="40" width="800" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="770" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-9" value="Header" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="730" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g6Fvgrxx4la7abIuN5Dx-8" target="g6Fvgrxx4la7abIuN5Dx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-12" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-13" value="About" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-14" value="Contact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="170" width="105" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-15" value="Farmer Market Schedule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="290" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-16" value="Farmer Market Schedule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="360" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-17" value="Farmer Market Schedule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="430" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-18" value="Find us at this farmers market" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="550" width="730" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-22" value="&lt;div&gt;Seasonal Produce&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="550" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-23" value="Month:&lt;br&gt;Selection:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="580" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-24" value="Month:&lt;br&gt;Selection:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="650" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6Fvgrxx4la7abIuN5Dx-25" value="Month:&lt;br&gt;Selection:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="720" width="680" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
